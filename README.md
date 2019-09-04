@@ -24,7 +24,7 @@ have fun
 PM
 
 #### License, contributing guidelines, and code of conduct
-[License](../LICENSE.md) 
+[License](/LICENSE.md) 
 
 #### Project structure
 ...
