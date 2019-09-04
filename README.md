@@ -1,4 +1,8 @@
 # DemoRepo
+
+[![GitHub License](https://img.shields.io/github/license/Rrtk2/DemoRepo)](https://github.com/Rrtk2/DemoRepo/blob/master/LICENSE.md) [![GitHub Watches](https://img.shields.io/github/watchers/Rrtk2/DemoRepo.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/Rrtk2/DemoRepo/watchers)
+
+
 This repo is a demo which contains the core of what every repo should contain, a template.
 
 So the following points need to be adressed:
