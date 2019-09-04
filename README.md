@@ -25,6 +25,8 @@ PM
 
 #### License, contributing guidelines, and code of conduct
 [License](/LICENSE.md) 
+[Contributing guidelines](/CONTRIBUTING.md) 
+[code of conduct](/CODE_OF_CONDUCT.md) 
 
 #### Project structure
 ...
@@ -34,6 +36,9 @@ RRtK2 (owner and contributor)
 
 #### Status of project
 Ongoing
+
+#### Citation
+Feel free to [cite.](/CITATION.cff) 
 
 ### FAQ
 (empty)
